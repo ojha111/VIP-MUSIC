@@ -27,8 +27,8 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ Click & Get ₹100 ๏",
-                url=f"https://91club.game/#/register?invitationCode=65847105926",
+                "๏ Click FREE AUDIO NOTES  ๏",
+                url=f"https://t.me/gkaudionotes01",
             )
         ]
     ]
