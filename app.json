@@ -54,7 +54,7 @@
       },
       "AUTO_GCAST": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 [True] 𝐅𝐎𝐑 𝐎𝐍 𝐀𝐔𝐓𝐎 𝐆𝐂𝐀𝐒𝐓/𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 𝐌𝐄𝐒𝐒𝐀𝐆𝐄, (Leave Blank This Field & skip To Disbale Auto Gcast/Broadcast.)",
-        "value": "True",
+        "value": "false",
         "required": false
       },
       "AUTO_GCAST_MSG": {
@@ -69,7 +69,7 @@
       },
       "LOGGER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐖𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐋𝐖𝐀𝐘𝐒 𝐒𝐓𝐀𝐘 𝐀𝐃𝐌𝐈𝐍 (𝐈𝐃 𝐌𝐔𝐒𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐖𝐈𝐓𝐇 -100).",
-        "value": "",
+        "value": "-1001931407182",
         "required": true
       }
     },
